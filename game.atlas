@@ -1,0 +1,797 @@
+
+game.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/[Babel Library]
+  rotate: false
+  xy: 1440, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/[Bazaar]
+  rotate: false
+  xy: 420, 564
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/[Burial Tomb]
+  rotate: false
+  xy: 528, 456
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/[College]
+  rotate: false
+  xy: 412, 808
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/[Floating Gardens]
+  rotate: false
+  xy: 960, 592
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/[Hanse]
+  rotate: false
+  xy: 1068, 484
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/[Ise Shrine]
+  rotate: false
+  xy: 1036, 808
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/[Krepost]
+  rotate: false
+  xy: 1608, 592
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/[Lion's Gate]
+  rotate: false
+  xy: 4, 608
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+BuildingIcons/[Longhouse]
+  rotate: false
+  xy: 1608, 376
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/[Mekewap]
+  rotate: false
+  xy: 412, 672
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/[Mud Pyramid Mosque]
+  rotate: false
+  xy: 508, 132
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/[Mughal Fort]
+  rotate: false
+  xy: 616, 132
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/[Music Bazaar]
+  rotate: false
+  xy: 744, 268
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/[Organ Chapel]
+  rotate: false
+  xy: 1176, 268
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/[Paper Maker]
+  rotate: false
+  xy: 1284, 268
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/[Pillar of Ashoka]
+  rotate: false
+  xy: 1452, 808
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/[Pyramid]
+  rotate: false
+  xy: 724, 160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/[Racetrack]
+  rotate: false
+  xy: 1660, 808
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/[Rock Temple]
+  rotate: false
+  xy: 832, 160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/[Royal Military Academy]
+  rotate: false
+  xy: 1048, 160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/[Satrap's Court]
+  rotate: false
+  xy: 1372, 160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/[Scandinavian Workshop]
+  rotate: false
+  xy: 1480, 160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/[Stele]
+  rotate: false
+  xy: 832, 52
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/[Sundial]
+  rotate: false
+  xy: 940, 52
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/[The Ottomans' Temple]
+  rotate: false
+  xy: 212, 400
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/[Trade Association]
+  rotate: false
+  xy: 1804, 52
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/[Wat]
+  rotate: false
+  xy: 1912, 52
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Alcazaba
+  rotate: false
+  xy: 4, 400
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/[Carthage Shrine]
+  rotate: false
+  xy: 4, 400
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/[Colony]
+  rotate: false
+  xy: 4, 192
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/[Manor]
+  rotate: false
+  xy: 1716, 376
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/[Moai]
+  rotate: false
+  xy: 1824, 376
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/[Polder]
+  rotate: false
+  xy: 1716, 268
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/[Terrace farm]
+  rotate: false
+  xy: 1264, 52
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[America]
+  rotate: false
+  xy: 792, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[Arabia]
+  rotate: false
+  xy: 900, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[Austria]
+  rotate: false
+  xy: 1116, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[Aztecs]
+  rotate: false
+  xy: 1224, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[Babylon]
+  rotate: false
+  xy: 1548, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[Byzantium]
+  rotate: false
+  xy: 420, 348
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[Carthage]
+  rotate: false
+  xy: 400, 240
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[Celts]
+  rotate: false
+  xy: 636, 564
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[China]
+  rotate: false
+  xy: 636, 456
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[Cree]
+  rotate: false
+  xy: 1868, 880
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/[Denmark]
+  rotate: false
+  xy: 744, 484
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[Egypt]
+  rotate: false
+  xy: 852, 592
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[England]
+  rotate: false
+  xy: 744, 376
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[Ethiopia]
+  rotate: false
+  xy: 852, 484
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[France]
+  rotate: false
+  xy: 960, 484
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[Germany]
+  rotate: false
+  xy: 1068, 592
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[Greece]
+  rotate: false
+  xy: 960, 376
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[Hittites]
+  rotate: false
+  xy: 1176, 592
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[Inca]
+  rotate: false
+  xy: 1284, 592
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[India]
+  rotate: false
+  xy: 1176, 376
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[Iroquois]
+  rotate: false
+  xy: 1284, 484
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[Japan]
+  rotate: false
+  xy: 1392, 484
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[Korea]
+  rotate: false
+  xy: 1500, 484
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[Maurya]
+  rotate: false
+  xy: 1244, 808
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/[Mongolia]
+  rotate: false
+  xy: 400, 132
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[Persia]
+  rotate: false
+  xy: 1392, 268
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[Polynesia]
+  rotate: false
+  xy: 1824, 268
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[Rome]
+  rotate: false
+  xy: 940, 160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[Russia]
+  rotate: false
+  xy: 1156, 160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[Siam]
+  rotate: false
+  xy: 1588, 160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[Songhai]
+  rotate: false
+  xy: 1804, 160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[Spain]
+  rotate: false
+  xy: 724, 52
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[Sweden]
+  rotate: false
+  xy: 1048, 52
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[The Huns]
+  rotate: false
+  xy: 1372, 52
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[The Maya]
+  rotate: false
+  xy: 1480, 52
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[The Netherlands]
+  rotate: false
+  xy: 1588, 52
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[The Ottomans]
+  rotate: false
+  xy: 1696, 52
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/[Turk]
+  rotate: false
+  xy: 212, 212
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitIcons/[African Forest Elephant]
+  rotate: false
+  xy: 684, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Atlatlist]
+  rotate: false
+  xy: 1008, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[B17]
+  rotate: false
+  xy: 1332, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Ballista]
+  rotate: false
+  xy: 1656, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Battering Ram]
+  rotate: false
+  xy: 1764, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Berserker]
+  rotate: false
+  xy: 420, 456
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Bowman]
+  rotate: false
+  xy: 528, 564
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Camel Archer]
+  rotate: false
+  xy: 528, 348
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Cataphract]
+  rotate: false
+  xy: 508, 240
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Chu-Ko-Nu]
+  rotate: false
+  xy: 636, 348
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Companion Cavalry]
+  rotate: false
+  xy: 616, 240
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Cossack]
+  rotate: false
+  xy: 744, 592
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Elite Cavalry]
+  rotate: false
+  xy: 4, 4
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitIcons/[Fast Worker]
+  rotate: false
+  xy: 620, 808
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/[Foreign Legion]
+  rotate: false
+  xy: 852, 376
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Heavy Chariot]
+  rotate: false
+  xy: 828, 808
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/[Hoplite]
+  rotate: false
+  xy: 1068, 376
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Horse Archer]
+  rotate: false
+  xy: 1176, 484
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Jaguar]
+  rotate: false
+  xy: 1392, 592
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Janissary]
+  rotate: false
+  xy: 1284, 376
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Keshik]
+  rotate: false
+  xy: 1500, 592
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Khan]
+  rotate: false
+  xy: 1392, 376
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Landsknecht]
+  rotate: false
+  xy: 1500, 376
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Legion]
+  rotate: false
+  xy: 1608, 484
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Longbowman]
+  rotate: false
+  xy: 1716, 592
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Mandekalu Cavalry]
+  rotate: false
+  xy: 1716, 484
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Maori Warrior]
+  rotate: false
+  xy: 1824, 592
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Minuteman]
+  rotate: false
+  xy: 1824, 484
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Mohawk Warrior]
+  rotate: false
+  xy: 1872, 772
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Musketeer]
+  rotate: false
+  xy: 852, 268
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Naresuan's Elephant]
+  rotate: false
+  xy: 960, 268
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Norwegian Ski Infantry]
+  rotate: false
+  xy: 1068, 268
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Okihtcitaw]
+  rotate: false
+  xy: 548, 672
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/[Persian Immortal]
+  rotate: false
+  xy: 1500, 268
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Pictish Warrior]
+  rotate: false
+  xy: 1608, 268
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Samurai]
+  rotate: false
+  xy: 1264, 160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Slinger]
+  rotate: false
+  xy: 1696, 160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[Tercio]
+  rotate: false
+  xy: 1156, 52
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[War Chariot]
+  rotate: false
+  xy: 192, 84
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/[War Elephant]
+  rotate: false
+  xy: 1912, 160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

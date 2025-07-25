@@ -1,44 +1,48 @@
 [
-	// Ancient Era
-
 	{
 		"name": "[Stele]",
-        "replaces": "Monument",
+		"replaces": "Monument",
 		"uniqueTo": "[Ethiopia]",
 		"culture": 2,
 		"faith": 2,
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"maintenance": 1,
-		"uniques": ["Destroyed when the city is captured"] //"Only available <when religion is enabled>"
+		"uniques": [
+			"Destroyed when the city is captured"
+		]
 	},
-    {
-        "name": "[Pillar of Ashoka]",
-        "replaces": "Monument",
-        "uniqueTo": "[Maurya]",
-        "culture": 2,
-        "cost": 32,
-        "hurryCostModifier": 40,
-        "maintenance": 1,
-        "uniques": ["Destroyed when the city is captured"]
-    },
-    {
-        "name": "[Sundial]",
-        "replaces": "Monument",
-        "uniqueTo": "[Turk]",
-        "culture": 2,
-        "cost": 40,
-        "hurryCostModifier": 40,
-        "maintenance": 1,
-        "uniques": ["Destroyed when the city is captured","[Military] units gain the [Wolf] promotion",]
-    },
-
 	{
-		"name" :"[Mekewap]",
+		"name": "[Pillar of Ashoka]",
+		"replaces": "Monument",
+		"uniqueTo": "[Maurya]",
+		"culture": 2,
+		"cost": 32,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": [
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "[Sundial]",
+		"replaces": "Monument",
+		"uniqueTo": "[Turk]",
+		"culture": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": [
+			"Destroyed when the city is captured",
+			"[Military] units gain the [Wolf] promotion"
+		]
+	},
+	{
+		"name": "[Mekewap]",
 		"uniqueTo": "[Cree]",
 		"replaces": "Granary",
 		"food": 2,
-   		"maintenance": 1,
+		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"requiredTech": "Pottery",
 		"uniques": [
@@ -54,7 +58,9 @@
 		"cost": 40,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
-		"uniques": ["Only available <when religion is enabled>"]
+		"uniques": [
+			"Only available <when religion is enabled>"
+		]
 	},
 	{
 		"name": "[Carthage Shrine]",
@@ -64,7 +70,10 @@
 		"cost": 40,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
-		"uniques": ["Only available <when religion is enabled>", "[+1 Food, +1 Faith] from [{non-[Bonus resource]} {Water}] tiles [in this city]"]
+		"uniques": [
+			"Only available <when religion is enabled>",
+			"[+1 Food, +1 Faith] from [{non-[Bonus resource]} {Water}] tiles [in this city]"
+		]
 	},
 	{
 		"name": "[Pyramid]",
@@ -75,17 +84,23 @@
 		"cost": 40,
 		"maintenance": 0,
 		"requiredTech": "Pottery",
-		"uniques": ["Only available <when religion is enabled>","[+1 Science] <after discovering [Writing]>"]
+		"uniques": [
+			"Only available <when religion is enabled>",
+			"[+1 Science] <after discovering [Writing]>"
+		]
 	},
-
 	{
 		"name": "[Babel Library]",
 		"replaces": "Library",
 		"uniqueTo": "[Babylon]",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"specialistSlots": {"Scientist": 1},
-		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"specialistSlots": {
+			"Scientist": 1
+		},
+		"uniques": [
+			"[+1 Science] per [2] population [in this city]"
+		],
 		"requiredTech": "Writing"
 	},
 	{
@@ -94,7 +109,9 @@
 		"uniqueTo": "[Korea]",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["[+2 Science] per [3] population [in this city]"],
+		"uniques": [
+			"[+2 Science] per [3] population [in this city]"
+		],
 		"requiredTech": "Writing"
 	},
 	{
@@ -103,69 +120,90 @@
 		"uniqueTo": "[China]",
 		"hurryCostModifier": 25,
 		"gold": 2,
-		"percentStatBonus": {"science": 5, "culture": 5},
-		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"percentStatBonus": {
+			"science": 5,
+			"culture": 5
+		},
+		"uniques": [
+			"[+1 Science] per [2] population [in this city]"
+		],
 		"requiredTech": "Writing"
 	},
-
 	{
 		"name": "[Floating Gardens]",
 		"replaces": "Water Mill",
 		"uniqueTo": "[Aztecs]",
 		"food": 2,
 		"production": 1,
-		"uniques": ["[+2 Food] from [Lakes] tiles [in this city]", "[+1 Food] from [Plantation] tiles [in this city]"],
+		"uniques": [
+			"[+2 Food] from [Lakes] tiles [in this city]",
+			"[+1 Food] from [Plantation] tiles [in this city]"
+		],
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"percentStatBonus": {"food": 15},
+		"percentStatBonus": {
+			"food": 15
+		},
 		"requiredTech": "The Wheel"
 	},
-    {
-        "name": "[Lion's Gate]",
-        "replaces": "Walls",
-        "uniqueTo": "[Hittites]",
-        "cost": 75,
-        "gold": 2,
-        "culture": 2,
-        "cityStrength": 5,
-        "cityHealth": 50,
-        "hurryCostModifier": 25,
-        "requiredTech": "Masonry",
-        "uniques": ["Destroyed when the city is captured"]
-    },
-
+	{
+		"name": "[Lion's Gate]",
+		"replaces": "Walls",
+		"uniqueTo": "[Hittites]",
+		"cost": 75,
+		"gold": 2,
+		"culture": 2,
+		"cityStrength": 5,
+		"cityHealth": 50,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": [
+            "Unbuildable <in [Hill] tiles> <when [No Wall-type Buildings (Ancient Walls allowed in non-hill cities)] Victory is enabled> <hidden from users>",
+			"Destroyed when the city is captured"
+		]
+	},
 	{
 		"name": "[Krepost]",
 		"replaces": "Barracks",
 		"uniqueTo": "[Russia]",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["[+1 Food] from [Strategic resource] tiles [in this city]", "[-25]% Culture cost of natural border growth [in this city]","[-25]% Gold cost of acquiring tiles [in this city]",
-			"New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
+		"uniques": [
+			"[+1 Food] from [{improved} {Strategic resource}] tiles [in this city]",
+			"[-25]% Culture cost of natural border growth [in this city]",
+			"[-25]% Gold cost of acquiring tiles [in this city]",
+			"New [Military] units start with [15] XP [in this city]",
+			"Destroyed when the city is captured"
+		],
 		"requiredTech": "Bronze Working"
 	},
-
 	{
 		"name": "[Satrap's Court]",
 		"replaces": "Courthouse",
 		"uniqueTo": "[Persia]",
 		"happiness": 1,
-		"maintenance": 4,
+		"maintenance": 0,
 		"hurryCostModifier": 50,
-		"uniques": ["Removes extra unhappiness from annexed cities",
-			"Empire enters a [7]-turn Golden Age <(modified by game speed)>"],
+		"uniques": [
+			"Removes extra unhappiness from annexed cities",
+			"Empire enters a [5]-turn Golden Age <(modified by game speed)>"
+			"[-4 Gold] <in [Annexed] cities>"
+			"Unsellable"
+		],
 		"requiredTech": "Mathematics"
 	},
-
 	{
 		"name": "[Racetrack]",
 		"replaces": "Colosseum",
 		"uniqueTo": "[Byzantium]",
-		"cost": 90,
+		"cost": 120,
 		"maintenance": 1,
 		"happiness": 3,
 		"hurryCostModifier": 25,
-		"uniques": ["Free [[Cataphract]] appears","Provides [1] [Horses]"],
+		"uniques": [
+			"Free [Cataphract] appears",
+			"Provides [1] [Horses]"
+		],
 		"requiredTech": "Construction"
 	},
 	{
@@ -178,18 +216,23 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Construction"
 	},
-
 	{
 		"name": "[The Ottomans' Temple]",
 		"replaces": "Temple",
 		"uniqueTo": "[The Ottomans]",
 		"faith": 2,
 		"requiredBuilding": "Shrine",
-		"specialistSlots": {"Scientist": 1},
+		"specialistSlots": {
+			"Scientist": 1
+		},
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured","Comment [[+2 Faith] from every [Scientist] [in this city]]"]
+		"uniques": [
+			"Only available <when religion is enabled>",
+			"Destroyed when the city is captured",
+			"Comment [[+2 Faith] from every [Scientist] [in this city]]"
+		]
 	},
 	{
 		"name": "[Rock Temple]",
@@ -202,14 +245,23 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
-		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured","Must be on [Hill]","Gain [50] [Faith] <(modified by game speed)>"]
+		"uniques": [
+			"Only available <when religion is enabled>",
+			"Destroyed when the city is captured",
+			"Must be on [Hill]",
+			"Gain [50] [Faith] <(modified by game speed)>"
+		]
 	},
 	{
 		"name": "[Burial Tomb]",
 		"replaces": "Shrine",
 		"uniqueTo": "[Egypt]",
 		"maintenance": 0,
-		"uniques": ["Doubles Gold given to enemy if city is captured", "Comment [[+1 Faith] from every [World Wonder] [in this city]]", "Comment [[+1 Faith] from every [Faith] [in this city]]"],
+		"uniques": [
+			"Doubles Gold given to enemy if city is captured",
+			"Comment [[+1 Faith] from every [World Wonder] [in this city]]",
+			"Comment [[+1 Faith] from every [Faith] [in this city]]"
+		],
 		"cost": 40,
 		"faith": 1,
 		"hurryCostModifier": 25,
@@ -226,17 +278,20 @@
 		"requiredBuilding": "Shrine",
 		"requiredTech": "Philosophy"
 	},
-
 	{
 		"name": "[Organ Chapel]",
 		"replaces": "Amphitheater",
 		"uniqueTo": "[Denmark]",
 		"culture": 5,
-		"specialistSlots": {"Artist": 1},
+		"specialistSlots": {
+			"Artist": 1
+		},
 		"requiredBuilding": "Monument",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["Destroyed when the city is captured"],
+		"uniques": [
+			"Destroyed when the city is captured"
+		],
 		"requiredTech": "Drama and Poetry"
 	},
 	{
@@ -244,10 +299,17 @@
 		"replaces": "Market",
 		"uniqueTo": "[Germany]",
 		"gold": 2,
-		"specialistSlots": {"Merchant": 1},
+		"specialistSlots": {
+			"Merchant": 1
+		},
 		"hurryCostModifier": 25,
-		"percentStatBonus": {"gold": 25, "production": 10},
-		"uniques": ["Comment [[+1 Production, +1 Science] from every [Production] [in this city]]"],
+		"percentStatBonus": {
+			"gold": 25,
+			"production": 10
+		},
+		"uniques": [
+			"[+1 Production, +1 Science] from every [Production] <in this city>"
+		],
 		"requiredTech": "Currency"
 	},
 	{
@@ -255,25 +317,38 @@
 		"replaces": "Market",
 		"uniqueTo": "[Austria]",
 		"gold": 2,
-		"specialistSlots": {"Merchant": 1},
+		"specialistSlots": {
+			"Merchant": 1
+		},
 		"hurryCostModifier": 25,
-		"percentStatBonus": {"gold": 25},
-		"uniques": ["Provides [1] [Artwork]"],
+		"percentStatBonus": {
+			"gold": 25
+		},
+		"uniques": [
+			"Provides [1] [Artwork]"
+		],
 		"requiredTech": "Currency"
 	},
-
 	{
 		"name": "[Bazaar]",
 		"replaces": "Market",
 		"uniqueTo": "[Arabia]",
 		"gold": 2,
-		"specialistSlots": {"Merchant": 1},
+		"specialistSlots": {
+			"Merchant": 1
+		},
 		"hurryCostModifier": 25,
-		"percentStatBonus": {"gold": 25},
-		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City","[+1 Gold] from each Trade Route","[+2 Gold] from [Oil] tiles [in this city]", "[+2 Gold] from [Oasis] tiles [in this city]"],
+		"percentStatBonus": {
+			"gold": 25
+		},
+		"uniques": [
+			"Provides 1 extra copy of each improved luxury resource near this City",
+			"[+1 Gold] from each Trade Route",
+			"[+2 Gold] from [Oil] tiles [in this city]",
+			"[+2 Gold] from [Oasis] tiles [in this city]"
+		],
 		"requiredTech": "Currency"
 	},
-
 	{
 		"name": "[Scandinavian Workshop]",
 		"replaces": "Workshop",
@@ -281,10 +356,17 @@
 		"maintenance": 2,
 		"production": 3,
 		"science": 1,
-		"specialistSlots": {"Engineer": 1},
+		"specialistSlots": {
+			"Engineer": 1
+		},
 		"hurryCostModifier": 25,
-		"percentStatBonus": {"production": 10},
-		"uniques": ["[+5]% [Production] <in cities with a [Forge]>", "[+5]% [Science] <in cities with a [University]>"],
+		"percentStatBonus": {
+			"production": 10
+		},
+		"uniques": [
+			"[+5]% [Production] <in cities with a [Forge]>",
+			"[+5]% [Science] <in cities with a [University]>"
+		],
 		"requiredTech": "Metal Casting"
 	},
 	{
@@ -294,24 +376,34 @@
 		"cost": 100,
 		"maintenance": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Production] from [Forest] tiles [in this city]","[+1 Production] from [Jungle] tiles [in this city]","[+1 Production] from [Iron] tiles [in this city]","[+15]% Production when constructing [Spaceship part] units [in this city]","[+15]% Production when constructing [Land] units [in this city]",],
+		"uniques": [
+			"[+1 Production] from [Forest] tiles [in this city]",
+			"[+1 Production] from [Jungle] tiles [in this city]",
+			"[+1 Production] from [Iron] tiles [in this city]",
+			"[+15]% Production when constructing [Spaceship part] units [in this city]",
+			"[+15]% Production when constructing [Land] units [in this city]"
+		],
 		"requiredTech": "Iron Working"
 	},
-
 	{
 		"name": "[Wat]",
 		"replaces": "University",
 		"uniqueTo": "[Siam]",
 		"maintenance": 2,
 		"hurryCostModifier": 15,
-		"percentStatBonus": {"science": 33},
-		"specialistSlots": {"Scientist": 2},
+		"percentStatBonus": {
+			"science": 33
+		},
+		"specialistSlots": {
+			"Scientist": 2
+		},
 		"culture": 3,
 		"requiredBuilding": "Library",
-		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
+		"uniques": [
+			"[+2 Science] from [Jungle] tiles [in this city]"
+		],
 		"requiredTech": "Education"
 	},
-
 	{
 		"name": "[Mughal Fort]",
 		"cost": 150,
@@ -322,9 +414,11 @@
 		"culture": 2,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
-		"uniques": ["[+1 Gold] [in this city] <after discovering [Flight]>", "Destroyed when the city is captured"],
+		"uniques": [
+            "Unbuildable <when [No Wall-type Buildings (Ancient Walls allowed in non-hill cities)] Victory is enabled> <hidden from users>",
+			"[+1 Gold] [in this city] <after discovering [Flight]>",
+			"Destroyed when the city is captured"
+		],
 		"requiredTech": "Chivalry"
 	},
-
-
 ]

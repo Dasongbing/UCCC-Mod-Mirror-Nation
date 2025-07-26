@@ -327,7 +327,7 @@
 			"[+15]% Strength <vs [Mounted] units>"
 		],
 		"promotions": [
-			"[Pictish Courage]2"
+			"Pictish Courage"
 		],
 		"attackSound": "metalhit"
 	},
@@ -515,7 +515,7 @@
 		"uniqueTo": "[Iroquois]",
 		"replaces": "Swordsman",
 		"movement": 2,
-		"strength": 14,
+		"strength": 13,
 		"cost": 75,
 		"requiredTech": "Bronze Working",
 		"upgradesTo": "Longswordsman",

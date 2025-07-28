@@ -1965,9 +1965,8 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Viking Fury",
 		"uniques": [
-			"[+1] Movement <for [Embarked] units>",
-			"[1] Movement point cost to disembark <for [All] units>",
 			"[Military] units gain the [Viking rage] promotion",
+			"Comment [[Viking rage]让军事单位拥有攻击时摧毁目标地块地块设施的能力]",
 			"No movement cost to pillage <for [Melee] units>"
 		],
 		"cities": [
@@ -2262,7 +2261,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Arts Center",
 		"uniques": [
-			"Comment [When constructing a [Culture] building or world wonder, gain [Culture] equal to [40]% of its Production cost]",
+			"Comment [When constructing a [Culture] building or world wonder, gain [Culture] equal to [30]% of its Production cost]",
 			"Gain [12] [Culture] <(modified by game speed)> <upon constructing [Monument] [in all cities]> <hidden from users>",
 			"Gain [30] [Culture] <(modified by game speed)> <upon constructing [Amphitheater] [in all cities]> <hidden from users>",
 			"Gain [60] [Culture] <(modified by game speed)> <upon constructing [Opera House] [in all cities]> <hidden from users>",

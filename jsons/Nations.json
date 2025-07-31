@@ -2261,7 +2261,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Arts Center",
 		"uniques": [
-			"Comment [When constructing a [Culture] building or world wonder, gain [Culture] equal to [30]% of its Production cost]",
+			"Comment [When constructing a [Culture] building or world wonder, gain [Culture] equal to [40]% of its Production cost]",
 			"Gain [12] [Culture] <(modified by game speed)> <upon constructing [Monument] [in all cities]> <hidden from users>",
 			"Gain [30] [Culture] <(modified by game speed)> <upon constructing [Amphitheater] [in all cities]> <hidden from users>",
 			"Gain [60] [Culture] <(modified by game speed)> <upon constructing [Opera House] [in all cities]> <hidden from users>",

@@ -92,7 +92,7 @@
 		"cost": 36,
 		"obsoleteTech": "Metal Casting",
 		"uniques": [
-			"Can build [Moai] improvements on tiles"
+			"Can build [[Moai]] improvements on tiles"
 		],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"

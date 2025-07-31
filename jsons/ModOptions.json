@@ -1,3 +1,7 @@
 {
-	"Mod requires [UCCC Mod]"
+    "isBaseRuleset": false,
+    "author":"Dasongbing",
+    "uniques":[
+        "Mod requires [UCCC Mod]"
+    ]
 }

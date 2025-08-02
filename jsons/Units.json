@@ -790,23 +790,22 @@
 		],
 		"attackSound": "shot"
 	},
-	{
+    {
 		"name": "[Cossack]",
 		"unitType": "Mounted",
-		"replaces": "Cavalry",
+		"replaces": "Knight",
 		"uniqueTo": "[Russia]",
 		"movement": 4,
-		"strength": 34,
-		"cost": 225,
-		"requiredTech": "Military Science",
-		"obsoleteTech": "Combustion",
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
-		"upgradesTo": "Landship",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 		"promotions": ["[Cossack] ability"],
 		"attackSound": "horse"
 	},
-
 	{
 		"name": "[B17]",
 		"unitType": "Bomber",
